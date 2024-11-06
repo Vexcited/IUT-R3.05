@@ -1,4 +1,4 @@
-# IUT-R3.05 - Programmation système
+# R3.05 - Programmation système
 
 ## Supports
 
