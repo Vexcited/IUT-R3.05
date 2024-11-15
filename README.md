@@ -8,3 +8,4 @@
 
 - TP1: [Propriété & emprunt](./ownership)
 - TP2: [Options et résultats](./options_and_resutls)
+- TP3: [Programmation concurrente](./concurrency)
