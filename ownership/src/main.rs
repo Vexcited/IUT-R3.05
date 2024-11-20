@@ -1,3 +1,4 @@
+
 fn main () {
   // 2.1
   let x = 10.0;
@@ -61,6 +62,7 @@ fn print_references () {
   // println!("ref3: {ref3}, ref4: {ref4}");
 }
 
+#[allow(clippy::manual_swap)]
 fn swap (x: &mut f64, y: &mut f64) {
   let temp = *x;
   *x = *y;
