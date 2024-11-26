@@ -1,7 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
-  "concurrency",
+  "concurrency", "network_services",
   "options_and_resutls",
   "ownership"
 , "port_scanner"]
